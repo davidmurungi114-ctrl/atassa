@@ -5,7 +5,12 @@ RUN apt-get update && \
     ffmpeg \
     git \
     ca-certificates \
-    curl && \
+    curl \
+    python3 \
+    make \
+    g++ \
+    pkg-config \
+    libsqlite3-dev && \
     rm -rf /var/lib/apt/lists/*
 
 WORKDIR /app
