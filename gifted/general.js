@@ -179,12 +179,12 @@ gmd(
 *🍁 Dᴀᴛᴇ Tᴏᴅᴀʏ:* ${monospace(date)}
 *🎗 Tɪᴍᴇ Nᴏᴡ:* ${monospace(time)}
 
-➮Fᴏᴜɴᴅᴇʀ - Gifted Tech
+➮Fᴏᴜɴᴅᴇʀ - COOL GUY
 ➮Usᴇʀ - ${monospace(pushName)}
 ➮Nᴜᴍ - ${monospace(ownerNumber)} 
 ➮Mᴇᴍᴏʀʏ - ${monospace(ram)}
 
-*🧑‍💻 :* ${monospace(botName)} Iꜱ Aᴠᴀɪʟᴀʙʟᴇ
+*🧑‍💻 :* COOL-GUY-MD Is AVAILABLE
 
 ╭──❰ *ALL MENU* ❱
 │🏮 Lɪꜱᴛ
